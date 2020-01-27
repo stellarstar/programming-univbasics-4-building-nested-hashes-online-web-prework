@@ -10,8 +10,6 @@ def base_hash
       :three_pieces_owned=>100,
       :four_pieces_owned=>200}}}
   end
-end
-end
 
 def monopoly_with_second_tier
   # When you start writing the implementation for this method, copy the Hash
